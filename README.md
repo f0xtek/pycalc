@@ -1,2 +1,2 @@
 # pycalc
-Sh***y Python GUI calculator built with PyQT5 :)
+Python GUI calculator built with PyQT5
